@@ -1,6 +1,7 @@
 module.exports = {
   "title": "syimbg",
-  "base":"./",
+  // "base":"./",
+  "base":"/syimbg/",
   "description": "xxx",
   "dest": "public",
   "head": [
