@@ -14,7 +14,7 @@ tagline: A simple and beautiful vuepress blog theme.
 bgImageStyle: {
   height: '450px'
 }
-isShowTitleInHome: false
+isShowTitleInHome: True
 actionText: Guide
 actionLink: /views/other/guide
 features:
