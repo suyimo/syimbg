@@ -94,7 +94,8 @@ module.exports = {
     "author": "suyimo",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2017",
+    "sidebar": "auto"
   },
   "markdown": {
     "lineNumbers": true
